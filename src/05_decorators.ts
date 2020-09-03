@@ -25,7 +25,7 @@ export function Logged(pointCuts: PointCut[]): ClassDecorator {
 }
 
 @Logged(['onEnter', 'onError'])
-class LoanApplication {
+export class LoanApplicationManager {
   @ValidateInput
   public start(payload) {}
 
