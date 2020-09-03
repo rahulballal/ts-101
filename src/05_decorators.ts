@@ -6,6 +6,7 @@
 // Example Packages:
 // 0. https://www.npmjs.com/package/typegoose 📈
 // 1. https://www.npmjs.com/package/class-validator 🎖
+// 2. https://typegraphql.com/ 👷
 
 // Decorators vs HOC/HOF
 // Decorators are only applicable to things that have a this binding.
